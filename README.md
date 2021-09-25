@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochestapelberg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocheStapelberg)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me: stapelberg.roche@protonmail.com
 
