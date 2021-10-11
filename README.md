@@ -3,10 +3,8 @@
 RocheStapelberg/RocheStapelberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![banner](https://user-images.githubusercontent.com/54359486/134776487-00fab2e2-f75e-47ae-9b02-05c7e344179a.png)
 # 👋 Hi, I’m Roche Stapelberg
-- 🌱 I’m currently studying computer science in South Africa.
+- 🌱 I’m currently studying software Engineering in South Africa.
 ## Technical Skills
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
