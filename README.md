@@ -4,7 +4,8 @@ RocheStapelberg/RocheStapelberg is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m Roche Stapelberg
-- 🌱 I’m currently studying software engineering in South Africa.
+- 🌱 Junior software engineer based in South Africa
+- 📫 Contact me : stapelberg.roche@gmail.com
 ## Technical Skills
 
 ### Languages
@@ -39,6 +40,3 @@ You can click the Preview link to take a look at your changes.
 
 ## Most used languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocheStapelberg)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📫 How to reach me: stapelberg.roche@gmail.com
-
