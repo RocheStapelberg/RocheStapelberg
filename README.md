@@ -4,7 +4,7 @@ RocheStapelberg/RocheStapelberg is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m Roche Stapelberg
-- 🌱 Junior software engineer based in South Africa
+- 🌱 Software engineer based in South Africa
 - 📫 Contact me : stapelberg.roche@gmail.com
 ## Technical Skills
 
