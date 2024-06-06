@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 # Hi, I’m Roche Stapelberg
 > Software engineer based in South Africa
   
-> Contact me : stapelberg.roche@gmail.com 
+> Contact me : stapelberg.roche@gmail.com
+
+> Most of my repos are private, contact if you want access :) 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:stapelberg.roche@gmail.com) 
 
