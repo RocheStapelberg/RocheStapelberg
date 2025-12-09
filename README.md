@@ -42,10 +42,3 @@ You can click the Preview link to take a look at your changes.
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-
-## Currently Learning
-[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-
-## Most used languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocheStapelberg)](https://github.com/anuraghazra/github-readme-stats)
